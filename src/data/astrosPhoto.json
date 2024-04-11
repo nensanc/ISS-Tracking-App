@@ -1,0 +1,25 @@
+{
+    "photos":{
+        "Jasmin Moghbeli":{
+            "url": "http://www.spacefacts.de/bios/portraits_hi/astronauts/mogbheli_jasmin.jpg"
+        },
+        "Andreas Mogensen":{
+            "url": "http://www.esa.int/var/esa/storage/images/esa_multimedia/images/2015/06/andreas_mogensen_soyuz_portrait/15532447-1-eng-GB/Andreas_Mogensen_Soyuz_portrait.jpg"
+        },
+        "Satoshi Furukawa":{
+            "url":"https://www.japoninfos.com/wp-content/uploads/2011/11/480px-Satoshi_Furukawa-336x420.jpg"
+        },
+        "Konstantin Borisov":{
+            "url":"https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2023/06/this_is_konstantin_borisov/24930040-1-eng-GB/This_is_Konstantin_Borisov_pillars.jpg"
+        },
+        "Oleg Kononenko":{
+            "url":"https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2011/09/russian_cosmonaut_oleg_kononenko/9913740-2-eng-GB/Russian_cosmonaut_Oleg_Kononenko_pillars.jpg"
+        },
+        "Nikolai Chub":{
+            "url":"https://blogs.esa.int/caves/files/2019/09/Chub-official-portrait_GCTC.jpg"
+        },
+        "Loral O'Hara":{
+            "url":"http://www.spacefacts.de/bios/portraits_hi/astronauts/o-hara_loral.jpg"
+        }
+    }
+}

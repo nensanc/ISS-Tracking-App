@@ -1,0 +1,2 @@
+export const SET_MARSPHOTO = 'SET_MARSPHOTO';
+export const SET_APODMODAL = 'SET_APODMODAL';
